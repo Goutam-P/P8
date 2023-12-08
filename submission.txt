@@ -1,23 +1,46 @@
-Project 8 - Submission Form
+﻿Project 8 - Submission Form
 
-Please fill in this form and submit it with your Project 8.
 
-Enter no more than 5 user stories that you did for the assignment that you would
-like to be graded on. For each story include the following information:
+Story number and name: 1 & Extend user profile detail with usage
+Story points: 3
+Brief description to see the story in action: 
+* The most current and most commented-upon photographs are featured in the UserPhotos component, which shows logged in user's data. 
+* There are two thumbnails displaying the recently uploaded photo and the most commented photo of that specific user. By clicking on these pictures, you redirect to a complete picture with comments and switch to the user photos view. 
 
-Story number and name:
-Story points:
-Brief description to see the story in action:
 
-Total Story Points:
+Story number and name: 3 & Visibility control on photos
+Story points: 4
+Brief description to see the story in action: 
+* Users can decide who can see the photographs and comments they upload when they utilize the photo sharing tool. 
+* Users have the option to designate who can see a photo by creating a sharing list on the top bar beside the user name. The picture is available to everyone if no list is defined.
 
-Marketing Video URL (ensure permissions are set to public viewing):
+
+Story number and name: 5 & Deleting comments, photos, and users
+Story points: 4
+Brief description to see the story in action: 
+* Users can delete either their entire account or comments or the photographs, using the delete feature in their user account. It guarantees complete data deletion, treating the user as if they never were, including user information, images, and comments. Final warning prompts are issued, the user is logged out, and linked records are progressively deleted from the database.
+* Users can also delete the comments that they commented on other user photos, but cannot delete the photos or accounts of another user.
+
+
+Story number and name: 6 & Photo like votes
+Story points: 4
+Brief description to see the story in action: 
+* This feature allows the user to Like or Dislike the photos posted by the other users from their account.
+
+
+Total Story Points: 15
+
+
+Marketing Video URL (ensure permissions are set to public viewing): https://drive.google.com/file/d/1SGVJRRvjCbMgylxKzbfgWlBimMitfyrk/view?usp=sharing
+
 
 Is it OK if we post your Marketing Video URL on the class discussion forum?
 [Yes/No]
 
+
 Any special instructions for grading (it should be easy for someone to run your
 app from a new machine):
+
 
 ************************************ Example ***********************************
 * As an example: if you did only story 5, your file would look like:
